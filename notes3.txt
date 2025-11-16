@@ -2,3 +2,5 @@ Hello
 Hello
 Hello
 Hello
+git config --global user.email "youroldemail@example.com"
+
